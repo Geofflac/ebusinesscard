@@ -1,10 +1,16 @@
 .box {
-    min-height:100vh;
+    min-height:100%;
 }
 
 html, body {
     min-height:100vh;
     font-family: 'Libre Franklin', sans-serif;
+
+}
+
+body {
+    display:flex;
+    flex-direction:column; 
 }
 
 .box::before {
@@ -60,7 +66,12 @@ img {
 
 .footer {
     font-size: 12px;
+    min-width: 100vw;
+    max-width: 500px;
+    bottom: 0;
     margin-left: auto;
     margin-right: auto;
-    max-width: 500px;
+    margin-top:auto;
+    background-color: rgba(127, 127, 127, 0.9);
+    color: whitesmoke;
 }
