@@ -1,9 +1,9 @@
 .box {
-    min-height:100%
+    min-height:100vh;
 }
 
 html, body {
-    min-height:100%;
+    min-height:100vh;
     font-family: 'Libre Franklin', sans-serif;
 }
 
@@ -56,4 +56,11 @@ img {
 
 .text-center {
     position: relative;
+}
+
+.footer {
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
 }
