@@ -11,5 +11,6 @@ Final result :
 
 Few NFT tag and business card proto :
 
-![image](https://user-images.githubusercontent.com/84672157/174966985-434d7179-6ae4-4468-8776-d31070315e79.png)
+![image](https://user-images.githubusercontent.com/84672157/174967302-b6765e7f-2139-489d-a529-91bf264c83e9.png)
+
 
