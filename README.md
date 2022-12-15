@@ -2,7 +2,7 @@
 
 For this project, the target is to create a one-page web app that will be used as a ebusiness card.
 To access this website, an NFC tag  and a QR will be stuck to the physical business card.
-The web app is deployed with HEROKU.
+The web app is deployed with RENDER.
 
 Final result :
 

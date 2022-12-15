@@ -13,3 +13,5 @@ Backup of *.doc*
 # PowerPoint temporary
 ~$*.ppt*
 *.ppt*
+
+node_modules
